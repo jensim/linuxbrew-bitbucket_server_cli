@@ -14,3 +14,5 @@ Or use the two-step ssh-clone version if you dont want brew to http-clone with c
 brew tap jensim/linuxbrew-bitbucket_server_cli-linux git@github.com:jensim/linuxbrew-bitbucket_server_cli-linux.git
 brew install bitbucket_server_cli
 ```
+
+*Only tested on windows subsystem linux (Ububtu 20.04)*
